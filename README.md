@@ -1,8 +1,7 @@
-# PHPExcel - DEAD
+# PHPExcel Migration to PHP 8.3
 
-PHPExcel last version, 1.8.1, was released in 2015. The project was officially deprecated in 2017 and permanently archived in 2019.
+This project is a migration of the PHPExcel library to be compatible with PHP 8.3. The migration includes updates to deprecated functions, syntax adjustments, and enhancements to leverage the new features and improvements in PHP 8.3.
 
-The project has not be maintained for years and must not be used anymore. **All users must migrate** to its direct successor [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet), or another alternative.
 
 ## License
 
